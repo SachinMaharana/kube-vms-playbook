@@ -1,0 +1,4 @@
+master-0 ec2-18-222-37-82.us-east-2.compute.amazonaws.com
+
+worker-0 ec2-18-188-137-73.us-east-2.compute.amazonaws.com
+worker-1 ec2-3-135-189-171.us-east-2.compute.amazonaws.com
