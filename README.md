@@ -1,6 +1,6 @@
-# ceph-cluster-vms
+# kube-vms-playbook
 
-A configurable terraform files to create a cluster of mons and osds in AWS to be used while exploring ceph installation.
+A configurable terraform files to create a cluster of vms for kuberentes cluster. A playbook is also added to deploy a 3 node kubernetes cluster.
 
 Should not be used for production as all VM's are in public subnet and have an associated public ip address.
 
